@@ -1,3 +1,6 @@
+Clone of a repo you get when following along with this course <https://frontendmasters.com/courses/algorithms>
+
+
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
